@@ -79,6 +79,7 @@ public class Main {
 
         }
     }
+
     public static void task10() {
         System.out.println("Задача 10");
         for(int i=1;i<=10;i++){
